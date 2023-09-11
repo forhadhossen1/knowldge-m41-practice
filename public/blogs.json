@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/wrZLL0j/1.jpg",
+      "title": "The art of coding.Codding is the best for coder lover. The art of coding.Codding is the best",
+      "author_img": "https://i.ibb.co/RCPKwZ3/user.jpg",
+      "name": "john doe",
+      "posted_date": "2023-09-11",
+      "reading_time": 15,
+      "hashtag": "programming"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/cQjPJyv/2.jpg",
+      "title": "Coding with passion, why coding is our job. We are depended on this code. The art of coding.Codding is the best",
+      "author_img": "https://i.ibb.co/chFznFh/user2.jpg",
+      "name": "jane smith",
+      "posted_date": "2023-09-10",
+      "reading_time": 10,
+      "hashtag": "food"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/syDfnV7/3.jpg",
+      "title": "Traveling on a budget. Remot job that importent for travaling why, Remot job that importent for travaling why,",
+      "author_img": "https://i.ibb.co/M8Hr8Ky/user3.jpg",
+      "name": "emily jones",
+      "posted_date": "2023-09-09",
+      "reading_time": 8,
+      "hashtag": "travel"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/y083dQt/4.jpg",
+      "title": "Health and fitness are the very important any work definetly needed for coder. Remot job that importent for travaling why",
+      "author_img": "https://i.ibb.co/hL35kfM/user4.jpg",
+      "name": "david brown",
+      "posted_date": "2023-09-08",
+      "reading_time": 12,
+      "hashtag": "wellness"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/cQjPJyv/2.jpg",
+      "title": "You can write code any place like that bus, train etc.Remot job that importent for travaling why.and.",
+      "author_img": "https://i.ibb.co/zRZKhpZ/user5.jpg",
+      "name": "susan white",
+      "posted_date": "2023-09-07",
+      "reading_time": 7,
+      "hashtag": "gardening"
+    }
+  ]
+  
