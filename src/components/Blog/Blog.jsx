@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
-    const { title, cover, author_img, reading_time, name, posted_date, hashtag} = blog
+    const {id, title, cover, author_img, reading_time, name, posted_date, hashtag} = blog
     return (
         <div className='mb-20'>
             <img className='w-full py-5' src={cover} alt={`Cover picture of the title ${title}`} />
@@ -27,7 +27,7 @@ const Blog = ({ blog, handleAddToBookmark, handleReadingTime }) => {
             <p>               
                     <a href="">#{hashtag}</a>              
             </p>
-            <button onClick={()=>handleReadingTime(reading_time)} className='mt-6 text-blue-800 underline font-bold'>Marked As Read</button>
+            <button onClick={()=>handleReadingTime(id, reading_time)} className='mt-6 text-blue-800 underline font-bold'>Marked As Read</button>
         </div>
     );
 };
